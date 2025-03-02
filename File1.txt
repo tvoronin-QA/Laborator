@@ -1,2 +1,2 @@
-Edited line 1
+Edited line 1 and new text
 Edited line 2
